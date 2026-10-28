@@ -1,0 +1,6 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='700' viewBox='0 0 1000 700'><rect width='100%' height='100%' fill='white'/><text x='30' y='40' font-family='Arial' font-size='24' font-weight='bold'>Profit by Region (red = loss)</text>
+<text x='25' y='89' font-family='Arial' font-size='14'>Central</text><rect x='400' y='72' width='183' height='23' fill='#16a34a'/><text x='920' y='89' font-family='Arial' font-size='14'>$39,706</text>
+<text x='25' y='121' font-family='Arial' font-size='14'>South</text><rect x='400' y='104' width='216' height='23' fill='#16a34a'/><text x='920' y='121' font-family='Arial' font-size='14'>$46,749</text>
+<text x='25' y='153' font-family='Arial' font-size='14'>East</text><rect x='400' y='136' width='422' height='23' fill='#16a34a'/><text x='920' y='153' font-family='Arial' font-size='14'>$91,523</text>
+<text x='25' y='185' font-family='Arial' font-size='14'>West</text><rect x='400' y='168' width='500' height='23' fill='#16a34a'/><text x='920' y='185' font-family='Arial' font-size='14'>$1,08,418</text>
+<line x1='400' y1='58' x2='400' y2='650' stroke='#555'/></svg>

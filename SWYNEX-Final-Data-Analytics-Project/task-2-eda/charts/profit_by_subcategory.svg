@@ -1,0 +1,19 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='700' viewBox='0 0 1000 700'><rect width='100%' height='100%' fill='white'/><text x='30' y='40' font-family='Arial' font-size='24' font-weight='bold'>Profit by Sub-Category (red = loss)</text>
+<text x='25' y='89' font-family='Arial' font-size='14'>Tables</text><rect x='240.649273919762' y='72' width='159' height='23' fill='#dc2626'/><text x='920' y='89' font-family='Arial' font-size='14'>$-17,725</text>
+<text x='25' y='121' font-family='Arial' font-size='14'>Bookcases</text><rect x='368.781947944022' y='104' width='31' height='23' fill='#dc2626'/><text x='920' y='121' font-family='Arial' font-size='14'>$-3,473</text>
+<text x='25' y='153' font-family='Arial' font-size='14'>Supplies</text><rect x='389.310080833805' y='136' width='11' height='23' fill='#dc2626'/><text x='920' y='153' font-family='Arial' font-size='14'>$-1,189</text>
+<text x='25' y='185' font-family='Arial' font-size='14'>Fasteners</text><rect x='400' y='168' width='9' height='23' fill='#16a34a'/><text x='920' y='185' font-family='Arial' font-size='14'>$950</text>
+<text x='25' y='217' font-family='Arial' font-size='14'>Machines</text><rect x='400' y='200' width='30' height='23' fill='#16a34a'/><text x='920' y='217' font-family='Arial' font-size='14'>$3,385</text>
+<text x='25' y='249' font-family='Arial' font-size='14'>Labels</text><rect x='400' y='232' width='50' height='23' fill='#16a34a'/><text x='920' y='249' font-family='Arial' font-size='14'>$5,546</text>
+<text x='25' y='281' font-family='Arial' font-size='14'>Art</text><rect x='400' y='264' width='59' height='23' fill='#16a34a'/><text x='920' y='281' font-family='Arial' font-size='14'>$6,528</text>
+<text x='25' y='313' font-family='Arial' font-size='14'>Envelopes</text><rect x='400' y='296' width='63' height='23' fill='#16a34a'/><text x='920' y='313' font-family='Arial' font-size='14'>$6,964</text>
+<text x='25' y='345' font-family='Arial' font-size='14'>Furnishings</text><rect x='400' y='328' width='117' height='23' fill='#16a34a'/><text x='920' y='345' font-family='Arial' font-size='14'>$13,059</text>
+<text x='25' y='377' font-family='Arial' font-size='14'>Appliances</text><rect x='400' y='360' width='163' height='23' fill='#16a34a'/><text x='920' y='377' font-family='Arial' font-size='14'>$18,138</text>
+<text x='25' y='409' font-family='Arial' font-size='14'>Storage</text><rect x='400' y='392' width='191' height='23' fill='#16a34a'/><text x='920' y='409' font-family='Arial' font-size='14'>$21,279</text>
+<text x='25' y='441' font-family='Arial' font-size='14'>Chairs</text><rect x='400' y='424' width='239' height='23' fill='#16a34a'/><text x='920' y='441' font-family='Arial' font-size='14'>$26,590</text>
+<text x='25' y='473' font-family='Arial' font-size='14'>Binders</text><rect x='400' y='456' width='272' height='23' fill='#16a34a'/><text x='920' y='473' font-family='Arial' font-size='14'>$30,222</text>
+<text x='25' y='505' font-family='Arial' font-size='14'>Paper</text><rect x='400' y='488' width='306' height='23' fill='#16a34a'/><text x='920' y='505' font-family='Arial' font-size='14'>$34,054</text>
+<text x='25' y='537' font-family='Arial' font-size='14'>Accessories</text><rect x='400' y='520' width='377' height='23' fill='#16a34a'/><text x='920' y='537' font-family='Arial' font-size='14'>$41,937</text>
+<text x='25' y='569' font-family='Arial' font-size='14'>Phones</text><rect x='400' y='552' width='400' height='23' fill='#16a34a'/><text x='920' y='569' font-family='Arial' font-size='14'>$44,516</text>
+<text x='25' y='601' font-family='Arial' font-size='14'>Copiers</text><rect x='400' y='584' width='500' height='23' fill='#16a34a'/><text x='920' y='601' font-family='Arial' font-size='14'>$55,618</text>
+<line x1='400' y1='58' x2='400' y2='650' stroke='#555'/></svg>

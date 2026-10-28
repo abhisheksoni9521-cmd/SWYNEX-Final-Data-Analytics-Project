@@ -1,0 +1,21 @@
+SWYNEX TASK 1 - DATA CLEANING SUMMARY
+==========================================
+
+Original rows: 9994
+Original columns: 21
+Missing values before cleaning: 0
+Exact duplicate rows found: 0
+Rows after duplicate removal: 9994
+
+VALIDATION RESULTS
+-------------------------
+Invalid order dates: 0
+Invalid ship dates: 0
+Negative sales values: 0
+Non-positive quantities: 0
+Discounts outside 0-1: 0
+Ship date before order date: 0
+
+Missing values after cleaning: 0
+Final rows: 9994
+Final columns: 21

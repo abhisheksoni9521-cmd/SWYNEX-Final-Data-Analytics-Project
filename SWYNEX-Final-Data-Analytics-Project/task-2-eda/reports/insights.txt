@@ -1,0 +1,19 @@
+EXPLORATORY DATA ANALYSIS — SAMPLE SUPERSTORE
+
+1. Dataset scope: 9,994 usable order lines from 2014-01-03 to 2017-12-30. Total sales are $2,297,200.86 and total profit is $286,397.02.
+
+2. Technology has the highest category sales ($836,154.03); Technology also has the highest category profit ($145,454.95).
+
+3. West is the most profitable region ($108,418.45); Central is the least profitable ($39,706.36).
+
+4. Tables has the largest sub-category loss ($-17,725.48), while Copiers has the highest profit ($55,617.82).
+
+5. 1,871 order lines (18.7%) have negative profit. Review the rows in reports/rows_for_review.csv to see which product, discount, and region combinations are involved.
+
+6. Order lines discounted by 50% or more total 922; together they have $-97,065.48 profit. Check reports/discount_summary.csv and charts/discount_vs_profit.png for the pattern.
+
+7. Sales in 2017 were 20.4% higher than in 2016; see the monthly chart for seasonality and month-to-month variation.
+
+8. Sean Miller is the top customer by sales ($25,043.05); top-customer results are in reports/top_customers.csv.
+
+Data checks: 0 rows had invalid/missing dates; 0 rows had missing/non-numeric measures; 0 rows have Ship Date before Order Date. High-value sales flags use the 1.5×IQR rule and should be reviewed, not automatically treated as errors.
